@@ -1,0 +1,13 @@
+name,type,brand,price,quantity,stock,image
+Air Bike,Exercise,PowerMax,5599,1,13,bike.png
+Treadmill,Exercise,AssaultFitness,7999,1,10,treadmill.png
+Sweatshirt,Clothing,Decathlon,799,1,30,shirt.png
+Leggings,Clothing,Decathlon,399,1,30,leggings.png
+Yoga Mat,Yoga,Decathlon,499,1,20,mat.png
+Yoga Block,Yoga,AssaultFitness,299,2,30,block.png
+Punching Bag,Boxing,Decathlon,1999,1,9,bag.png
+Pull Up Bar,Boxing,PowerMax,2199,1,10,pullbar.png
+Adjustable Dumbbell,Strength,AssaultFitness,16999,1,5,dumbbell.png
+Dip Station,Strength,PowerMax,3999,1,14,dip.png
+Whey Protein,Food,MuscleBlaze,2499,1,20,whey.png
+Country Egg,Food,AyushFoods,10,6,300,egg.png
